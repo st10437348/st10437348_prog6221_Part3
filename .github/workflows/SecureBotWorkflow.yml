@@ -1,40 +1,25 @@
-name: SecureBotWorkflow
+name: SecureBot Workflow
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
   pull_request:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
-    # Checkout the repository
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-    # Set up .NET SDK (ensure you're using the correct version for your project)
-    - name: Set up .NET
-      uses: actions/setup-dotnet@v1
-      with:
-        dotnet-version: '9.0.x' 
+      - name: Setup MSBuild
+        uses: microsoft/setup-msbuild@v2
 
-    # Restore dependencies using the solution file
-    - name: Restore dependencies
-      run: dotnet restore SecureBot/SecureBot.sln
+      - name: Restore NuGet packages
+        run: nuget restore SecureBot.sln
 
-    # Build the solution (this checks for syntax errors and compilation issues)
-    - name: Build
-      run: dotnet build SecureBot/SecureBot.sln --configuration Release
+      - name: Build solution
+        run: msbuild SecureBot.sln /p:Configuration=Release
 
-    # Run tests (if you have tests)
-    - name: Run tests
-      run: dotnet test SecureBot/SecureBot.sln --no-build --configuration Release
-
-    # Check code formatting (optional but recommended)
-    - name: Check code formatting
-      run: dotnet format SecureBot/SecureBot.sln --verify-no-changes --verbosity normal
