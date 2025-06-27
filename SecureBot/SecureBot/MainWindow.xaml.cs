@@ -582,14 +582,18 @@ namespace SecureBot
                 return;
             }
 
-            bool matched = false;
+            bool sentimentFound = false;
+            bool keywordFound = false;
+            string foundSentiment = null;
+            string foundKeyword = null;
 
             foreach (var sentiment in sentiments)
             {
                 if (input.Contains(sentiment.Key))
                 {
+                    sentimentFound = true;
+                    foundSentiment = sentiment.Key;
                     await PrintBotMessage(string.Format(sentiment.Value, userName));
-                    matched = true;
                     break;
                 }
             }
@@ -598,15 +602,26 @@ namespace SecureBot
             {
                 if (input.Contains(keyword.Key))
                 {
-                    string response = keyword.Value[rand.Next(keyword.Value.Count)];
-                    response = response.Contains("{0}") ? string.Format(response, userName) : response;
-                    await PrintBotMessage(response);
-                    matched = true;
+                    keywordFound = true;
+                    foundKeyword = keyword.Key;
                     break;
                 }
             }
 
-            if (!matched)
+            if (sentimentFound && keywordFound)
+            {
+                await PrintBotMessage($"Here's a fact about {foundKeyword} that you might enjoy, {userName}:");
+                string response = keywordResponses[foundKeyword][rand.Next(keywordResponses[foundKeyword].Count)];
+                response = response.Contains("{0}") ? string.Format(response, userName) : response;
+                await PrintBotMessage(response);
+            }
+            else if (keywordFound)
+            {
+                string response = keywordResponses[foundKeyword][rand.Next(keywordResponses[foundKeyword].Count)];
+                response = response.Contains("{0}") ? string.Format(response, userName) : response;
+                await PrintBotMessage(response);
+            }
+            else if (!sentimentFound)
             {
                 await PrintBotMessage($"I'm not sure I understand that. Could you maybe try rephrasing your response {userName}? I will do my best to interpret your response");
             }
