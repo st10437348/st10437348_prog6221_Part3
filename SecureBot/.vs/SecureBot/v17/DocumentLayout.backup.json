@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|c:\\desktop\\st10437348_prog6221_part3\\securebot\\securebot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|c:\\desktop\\st10437348_prog6221_part3\\securebot\\securebot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SecureBot\\MainWindow.xaml",
@@ -46,6 +46,48 @@
               "RelativeToolTip": "SecureBot\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-26T08:58:07.786Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SecureBot\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SecureBot\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAPkBAAAAAAAAAAAAAMcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:58:06.962Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\TaskManager.cs",
+              "RelativeDocumentMoniker": "SecureBot\\TaskManager.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\TaskManager.cs",
+              "RelativeToolTip": "SecureBot\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:05:48.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\QuizManager.cs",
+              "RelativeDocumentMoniker": "SecureBot\\QuizManager.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\QuizManager.cs",
+              "RelativeToolTip": "SecureBot\\QuizManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:00:07.391Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -60,6 +102,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T14:07:42.105Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -73,44 +116,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T14:06:42.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskManager.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\TaskManager.cs",
-              "RelativeDocumentMoniker": "SecureBot\\TaskManager.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\TaskManager.cs",
-              "RelativeToolTip": "SecureBot\\TaskManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T14:05:48.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuizManager.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\QuizManager.cs",
-              "RelativeDocumentMoniker": "SecureBot\\QuizManager.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\QuizManager.cs",
-              "RelativeToolTip": "SecureBot\\QuizManager.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAuwGIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T14:00:07.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "SecureBot\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\MainWindow.xaml.cs",
-              "RelativeToolTip": "SecureBot\\MainWindow.xaml.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAAAMcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T08:58:06.962Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
