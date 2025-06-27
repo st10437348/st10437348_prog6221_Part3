@@ -18,6 +18,7 @@ jobs:
         uses: microsoft/setup-msbuild@v2
 
       - name: Build solution
-        run: msbuild SecureBot/SecureBot.csproj /p:Configuration=Release
+        run: msbuild SecureBot.sln /p:Configuration=Release
+
    
 
