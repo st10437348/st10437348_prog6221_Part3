@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\",
+  "WorkspaceRootPath": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\securebot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\securebot\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\securebot\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\securebot\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|c:\\users\\alexo\\onedrive\\university\\msa\\2nd year\\prog6221\\securebot\\securebot\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\securebot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|c:\\desktop\\st10437348_prog6221_part3\\securebot\\securebot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\securebot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465CCA5C-925F-4139-8951-10B1AE81E504}|SecureBot\\SecureBot.csproj|solutionrelative:securebot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SecureBot\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\MainWindow.xaml",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\MainWindow.xaml",
               "RelativeToolTip": "SecureBot\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-26T08:58:07.786Z",
@@ -51,52 +51,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\TaskItem.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\TaskItem.cs",
               "RelativeDocumentMoniker": "SecureBot\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\TaskItem.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\TaskItem.cs",
               "RelativeToolTip": "SecureBot\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T14:07:42.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "QuizQuestion.cs",
-              "DocumentMoniker": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\QuizQuestion.cs",
               "RelativeDocumentMoniker": "SecureBot\\QuizQuestion.cs",
-              "ToolTip": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\QuizQuestion.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\QuizQuestion.cs",
               "RelativeToolTip": "SecureBot\\QuizQuestion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T14:06:42.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TaskManager.cs",
-              "DocumentMoniker": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\TaskManager.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\TaskManager.cs",
               "RelativeDocumentMoniker": "SecureBot\\TaskManager.cs",
-              "ToolTip": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\TaskManager.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\TaskManager.cs",
               "RelativeToolTip": "SecureBot\\TaskManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T14:05:48.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "QuizManager.cs",
-              "DocumentMoniker": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\QuizManager.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\QuizManager.cs",
               "RelativeDocumentMoniker": "SecureBot\\QuizManager.cs",
-              "ToolTip": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\QuizManager.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\QuizManager.cs",
               "RelativeToolTip": "SecureBot\\QuizManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wGIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T14:00:07.391Z",
               "EditorCaption": ""
@@ -105,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SecureBot\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\alexo\\OneDrive\\University\\MSA\\2nd Year\\PROG6221\\SecureBot\\SecureBot\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6221_Part3\\SecureBot\\SecureBot\\MainWindow.xaml.cs",
               "RelativeToolTip": "SecureBot\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
