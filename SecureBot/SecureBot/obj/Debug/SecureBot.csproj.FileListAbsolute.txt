@@ -1,0 +1,14 @@
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\SecureBot.csproj.AssemblyReference.cache
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\MainWindow.baml
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\MainWindow.g.cs
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\App.g.cs
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\SecureBot_MarkupCompile.cache
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\SecureBot.g.resources
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\SecureBot.Properties.Resources.resources
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\SecureBot.csproj.GenerateResource.cache
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\SecureBot.csproj.CoreCompileInputs.cache
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\bin\Debug\SecureBot.exe.config
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\bin\Debug\SecureBot.exe
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\bin\Debug\SecureBot.pdb
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\SecureBot.exe
+C:\Users\alexo\OneDrive\University\MSA\2nd Year\PROG6221\SecureBot\SecureBot\obj\Debug\SecureBot.pdb
