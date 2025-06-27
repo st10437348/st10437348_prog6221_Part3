@@ -13,25 +13,21 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    # Checkout the repository
-    - name: Checkout code
-      uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-    # Set up MSBuild for .NET Framework 4.8 WPF build
-    - name: Set up MSBuild
-      uses: microsoft/setup-msbuild@v2
+      - name: Set up MSBuild
+        uses: microsoft/setup-msbuild@v2
 
-    # Optional: List files for debugging paths
-    - name: List files in repository
-      run: dir
+      - name: List files in repository
+        run: dir
 
-    # Restore NuGet packages if you use them
-    - name: Restore NuGet packages
-      run: nuget restore SecureBot.sln
+      - name: Restore NuGet packages
+        run: nuget restore SecureBot/SecureBot.sln
 
-    # Build the solution in Release mode
-    - name: Build solution
-      run: msbuild SecureBot.sln /p:Configuration=Release
+      - name: Build solution
+        run: msbuild SecureBot/SecureBot.sln /p:Configuration=Release
+
 
 
    
